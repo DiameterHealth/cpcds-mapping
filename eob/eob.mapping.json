@@ -1,8 +1,7 @@
 {
   "DH_EOB_CLAIM_SERVICE_START_DATE": {
     "columnHeader": "Claim service start date",
-    "index": 0,
-    "test": false
+    "index": 0
   },
   "DH_EOB_CLAIM_SERVICE_END_DATE": {
     "columnHeader": "Claim service end date",
