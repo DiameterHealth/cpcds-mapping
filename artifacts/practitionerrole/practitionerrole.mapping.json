@@ -1,0 +1,38 @@
+{
+  "DH_PRACTITIONER_ROLE_PRACTITIONER_NPI": {
+    "columnHeader": "Practitioner NPI",
+    "index": 0
+  },
+  "DH_PRACTITIONER_ROLE_FIRST_NAME": {
+    "columnHeader": "First Name",
+    "index": 1
+  },
+  "DH_PRACTITIONER_ROLE_LAST_NAME": {
+    "columnHeader": "Last Name",
+    "index": 2
+  },
+  "DH_PRACTITIONER_ROLE_MIDDLE_NAME": {
+    "columnHeader": "Middle Name",
+    "index": 3
+  },
+  "DH_PRACTITIONER_ROLE_PREFIX_NAME": {
+    "columnHeader": "Prefix",
+    "index": 4
+  },
+  "DH_PRACTITIONER_ROLE_SUFFIX_NAME": {
+    "columnHeader": "Suffix",
+    "index": 5
+  },
+  "DH_PRACTITIONER_ROLE_ORGANIZATION_NPI": {
+    "columnHeader": "Organization NPI",
+    "index": 6
+  },
+  "DH_PRACTITIONER_ROLE_CODE": {
+    "columnHeader": "Code",
+    "index": 7
+  },
+  "DH_PRACTITIONER_ROLE_SPECIALTY": {
+    "columnHeader": "Specialty",
+    "index": 8
+  }
+}
