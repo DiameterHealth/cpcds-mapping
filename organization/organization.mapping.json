@@ -1,0 +1,46 @@
+{
+  "DH_ORGANIZATION_ID": {
+    "columnHeader": "Id",
+    "index": 0
+  },
+  "DH_ORGANIZATION_NAME": {
+    "columnHeader": "Name",
+    "index": 1
+  },
+  "DH_ORGANIZATION_ADDRESS_LINE_1": {
+    "columnHeader": "Address Line One",
+    "index": 2
+  },
+  "DH_ORGANIZATION_ADDRESS_LINE_2": {
+    "columnHeader": "Address Line Two",
+    "index": 3
+  },
+  "DH_ORGANIZATION_ADDRESS_LINE_3": {
+    "columnHeader": "Address Line Three",
+    "index": 4
+  },
+  "DH_ORGANIZATION_ADDRESS_CITY": {
+    "columnHeader": "City",
+    "index": 5
+  },
+  "DH_ORGANIZATION_ADDRESS_STATE": {
+    "columnHeader": "State",
+    "index": 6
+  },
+  "DH_ORGANIZATION_ADDRESS_ZIP_CODE": {
+    "columnHeader": "Zip Code",
+    "index": 7
+  },
+  "DH_ORGANIZATION_ADDRESS_COUNTY": {
+    "columnHeader": "County",
+    "index": 8
+  },
+  "DH_ORGANIZATION_ADDRESS_COUNTRY": {
+    "columnHeader": "Country",
+    "index": 9
+  },
+  "DH_ORGANIZATION_TYPE": {
+    "columnHeader": "Type",
+    "index": 10
+  }
+}

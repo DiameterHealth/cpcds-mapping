@@ -1,0 +1,138 @@
+{
+  "DH_PATIENT_MEMBER_ID": {
+    "columnHeader": "Member Id",
+    "index": 0
+  },
+  "DH_PATIENT_DATE_OF_BIRTH": {
+    "columnHeader": "Date of Birth",
+    "index": 1
+  },
+  "DH_PATIENT_DATE_OF_DEATH": {
+    "columnHeader": "Date of Death",
+    "index": 2
+  },
+  "DH_PATIENT_HOME_LINE_1": {
+    "columnHeader": "Home Address Line One",
+    "index": 3
+  },
+  "DH_PATIENT_HOME_LINE_2": {
+    "columnHeader": "Home Address Line Two",
+    "index": 4
+  },
+  "DH_PATIENT_HOME_LINE_3": {
+    "columnHeader": "Home Address Line Three",
+    "index": 5
+  },
+  "DH_PATIENT_HOME_CITY": {
+    "columnHeader": "Home City",
+    "index": 6
+  },
+  "DH_PATIENT_HOME_STATE": {
+    "columnHeader": "Home State",
+    "index": 7
+  },
+  "DH_PATIENT_HOME_ZIP_CODE": {
+    "columnHeader": "Home Zip Code",
+    "index": 8
+  },
+  "DH_PATIENT_HOME_COUNTY": {
+    "columnHeader": "Home County",
+    "index": 9
+  },
+  "DH_PATIENT_HOME_COUNTRY": {
+    "columnHeader": "Home Country",
+    "index": 10
+  },
+  "DH_PATIENT_BILL_LINE_1": {
+    "columnHeader": "Bill Address Line One",
+    "index": 11
+  },
+  "DH_PATIENT_BILL_LINE_2": {
+    "columnHeader": "Bill Address Line Two",
+    "index": 12
+  },
+  "DH_PATIENT_BILL_LINE_3": {
+    "columnHeader": "Bill Address Line Three",
+    "index": 13
+  },
+  "DH_PATIENT_BILL_CITY": {
+    "columnHeader": "Bill City",
+    "index": 14
+  },
+  "DH_PATIENT_BILL_STATE": {
+    "columnHeader": "Bill State",
+    "index": 15
+  },
+  "DH_PATIENT_BILL_ZIP_CODE": {
+    "columnHeader": "Bill Zip Code",
+    "index": 16
+  },
+  "DH_PATIENT_BILL_COUNTY": {
+    "columnHeader": "Bill County",
+    "index": 17
+  },
+  "DH_PATIENT_BILL_COUNTRY": {
+    "columnHeader": "Bill Country",
+    "index": 18
+  },
+  "DH_PATIENT_WORK_LINE_1": {
+    "columnHeader": "Work Address Line One",
+    "index": 19
+  },
+  "DH_PATIENT_WORK_LINE_2": {
+    "columnHeader": "Work Address Line Two",
+    "index": 20
+  },
+  "DH_PATIENT_WORK_LINE_3": {
+    "columnHeader": "Work Address Line Three",
+    "index": 21
+  },
+  "DH_PATIENT_WORK_CITY": {
+    "columnHeader": "Work City",
+    "index": 22
+  },
+  "DH_PATIENT_WORK_STATE": {
+    "columnHeader": "Work State",
+    "index": 23
+  },
+  "DH_PATIENT_WORK_ZIP_CODE": {
+    "columnHeader": "Work Zip Code",
+    "index": 24
+  },
+  "DH_PATIENT_WORK_COUNTY": {
+    "columnHeader": "Work County",
+    "index": 25
+  },
+  "DH_PATIENT_WORK_COUNTRY": {
+    "columnHeader": "Work Country",
+    "index": 26
+  },
+  "DH_PATIENT_RACE_CODE": {
+    "columnHeader": "Race code",
+    "index": 27
+  },
+  "DH_PATIENT_ETHNICITY": {
+    "columnHeader": "Ethnicity",
+    "index": 28
+  },
+  "DH_PATIENT_GENDER_CODE": {
+    "columnHeader": "Gender code",
+    "index": 29
+  },
+  "DH_PATIENT_BIRTH_SEX": {
+    "columnHeader": "Birth sex",
+    "index": 30
+  },
+  "DH_PATIENT_FIRST_NAME": {
+    "columnHeader": "First Name",
+    "index": 31
+  },
+  "DH_PATIENT_MIDDLE_NAME": {
+    "columnHeader": "Middle Name",
+    "index": 32
+  },
+  "DH_PATIENT_LAST_NAME": {
+    "columnHeader": "Last Name",
+    "index": 33
+  }
+}

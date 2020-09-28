@@ -1,0 +1,63 @@
+{
+  "DH_COVERAGE_ID": {
+    "columnHeader": "Coverage id",
+    "index": 0,
+    "force": true
+  },
+  "DH_COVERAGE_MEMBER_ID": {
+    "columnHeader": "Member id",
+    "index": 1
+  },
+  "DH_COVERAGE_SUBSCRIBER_ID": {
+    "columnHeader": "Subscriber id",
+    "index": 2
+  },
+  "DH_COVERAGE_DEPENDENT_NUMBER": {
+    "columnHeader": "Dependent number",
+    "index": 3
+  },
+  "DH_COVERAGE_TYPE": {
+    "columnHeader": "Coverage type",
+    "index": 4
+  },
+  "DH_COVERAGE_STATUS": {
+    "columnHeader": "Coverage status",
+    "index": 5
+  },
+  "DH_COVERAGE_START_DATE": {
+    "columnHeader": "Start date",
+    "index": 6
+  },
+  "DH_COVERAGE_END_DATE": {
+    "columnHeader": "End date",
+    "index": 7
+  },
+  "DH_COVERAGE_GROUP_ID": {
+    "columnHeader": "Group id",
+    "index": 8
+  },
+  "DH_COVERAGE_GROUP_NAME": {
+    "columnHeader": "Group name",
+    "index": 9
+  },
+  "DH_COVERAGE_PLAN_IDENTIFIER": {
+    "columnHeader": "Plan identifier",
+    "index": 10
+  },
+  "DH_COVERAGE_PLAN_NAME": {
+    "columnHeader": "Plan name",
+    "index": 11
+  },
+  "DH_COVERAGE_PAYER_IDENTIFIER": {
+    "columnHeader": "Payer identifier",
+    "index": 12
+  },
+  "DH_COVERAGE_PAYER_PRIMARY_IDENTIFIER": {
+    "columnHeader": "Payer primary identifier",
+    "index": 13
+  },
+  "DH_COVERAGE_RELATIONSHIP_TO_SUBSCRIBER": {
+    "columnHeader": "Relationship to subscriber",
+    "index": 14
+  }
+}
