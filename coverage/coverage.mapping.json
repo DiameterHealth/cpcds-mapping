@@ -1,8 +1,7 @@
 {
   "DH_COVERAGE_ID": {
     "columnHeader": "Coverage id",
-    "index": 0,
-    "force": true
+    "index": 0
   },
   "DH_COVERAGE_MEMBER_ID": {
     "columnHeader": "Member id",
