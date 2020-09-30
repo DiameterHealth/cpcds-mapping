@@ -108,7 +108,7 @@
     "index": 26
   },
   "DH_PATIENT_RACE_CODE": {
-    "columnHeader": "Race code",
+    "columnHeader": "Race Code",
     "index": 27
   },
   "DH_PATIENT_ETHNICITY": {
@@ -116,11 +116,11 @@
     "index": 28
   },
   "DH_PATIENT_GENDER_CODE": {
-    "columnHeader": "Gender code",
+    "columnHeader": "Gender Code",
     "index": 29
   },
   "DH_PATIENT_BIRTH_SEX": {
-    "columnHeader": "Birth sex",
+    "columnHeader": "Birth Sex",
     "index": 30
   },
   "DH_PATIENT_FIRST_NAME": {
