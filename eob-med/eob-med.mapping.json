@@ -1,0 +1,1134 @@
+{
+  "DH_EOB_CLAIM_SERVICE_START_DATE": {
+    "columnHeader": "Claim service start date",
+    "index": 0
+  },
+  "DH_EOB_CLAIM_SERVICE_END_DATE": {
+    "columnHeader": "Claim service end date",
+    "index": 1
+  },
+  "DH_EOB_CLAIM_PAID_DATE": {
+    "columnHeader": "Claim paid date",
+    "index": 2
+  },
+  "DH_EOB_CLAIM_RECEIVED_DATE": {
+    "columnHeader": "Claim received date",
+    "index": 3
+  },
+  "DH_EOB_MEMBER_ADMISSION_DATE": {
+    "columnHeader": "Member admission date",
+    "index": 4
+  },
+  "DH_EOB_MEMBER_DISCHARGE_DATE": {
+    "columnHeader": "Member discharge date",
+    "index": 5
+  },
+  "DH_EOB_PATIENT_ACCOUNT_NUMBER": {
+    "columnHeader": "Patient account number",
+    "index": 6
+  },
+  "DH_EOB_MEDICAL_RECORD_NUMBER": {
+    "columnHeader": "Medical record number",
+    "index": 7
+  },
+  "DH_EOB_CLAIM_UNIQUE_IDENTIFIER": {
+    "columnHeader": "Claim unique identifier",
+    "index": 8
+  },
+  "DH_EOB_CLAIM_ADJUSTED_FROM_IDENTIFIER": {
+    "columnHeader": "Claim adjusted from identifier",
+    "index": 9
+  },
+  "DH_EOB_CLAIM_ADJUSTED_TO_IDENTIFIER": {
+    "columnHeader": "Claim adjusted to identifier",
+    "index": 10
+  },
+  "DH_EOB_CLAIM_DIAGNOSIS_RELATED_GROUP_DESC": {
+    "columnHeader": "Claim diagnosis related group",
+    "index": 11
+  },
+  "DH_EOB_CLAIM_INPATIENT_SOURCE_ADMISSION_CODE": {
+    "columnHeader": "Claim inpatient source admission code",
+    "index": 12
+  },
+  "DH_EOB_CLAIM_INPATIENT_ADMISSION_TYPE_CODE": {
+    "columnHeader": "Claim inpatient admission type code",
+    "index": 13
+  },
+  "DH_EOB_CLAIM_BILL_FACILITY_TYPE_CODE": {
+    "columnHeader": "Claim bill facility type code",
+    "index": 14
+  },
+  "DH_EOB_CLAIM_SERVICE_CLASSIFICATION_TYPE_CODE": {
+    "columnHeader": "Claim service classification type code",
+    "index": 15
+  },
+  "DH_EOB_CLAIM_FREQUENCY_CODE": {
+    "columnHeader": "Claim frequency code",
+    "index": 16
+  },
+  "DH_EOB_CLAIM_PROCESSING_STATUS_CODE": {
+    "columnHeader": "Claim processing status code",
+    "index": 17
+  },
+  "DH_EOB_CLAIM_TYPE": {
+    "columnHeader": "Claim type",
+    "index": 18
+  },
+  "DH_EOB_PATIENT_DISCHARGE_STATUS_CODE": {
+    "columnHeader": "Patient discharge status code",
+    "index": 19
+  },
+  "DH_EOB_CLAIM_PAYMENT_DENIAL_CODE": {
+    "columnHeader": "Claim payment denial code",
+    "index": 20
+  },
+  "DH_EOB_CLAIM_PRIMARY_PAYER_IDENTIFIER": {
+    "columnHeader": "Claim primary payer identifier",
+    "index": 21
+  },
+  "DH_EOB_CLAIM_PAYEE_TYPE_CODE": {
+    "columnHeader": "Claim payee type code",
+    "index": 22
+  },
+  "DH_EOB_CLAIM_PAYEE": {
+    "columnHeader": "Claim payee",
+    "index": 23
+  },
+  "DH_EOB_CLAIM_PAYMENT_STATUS_CODE": {
+    "columnHeader": "Claim payment status code",
+    "index": 24
+  },
+  "DH_EOB_CLAIM_PAYER_IDENTIFIER": {
+    "columnHeader": "Claim payer identifier",
+    "index": 25
+  },
+  "DH_EOB_DAYS_SUPPLY": {
+    "columnHeader": "Days supply",
+    "index": 26
+  },
+  "DH_EOB_RX_SERVICE_REFERENCE_NUMBER": {
+    "columnHeader": "RX service reference number",
+    "index": 27
+  },
+  "DH_EOB_DAW_PRODUCT_SELECTION_CODE": {
+    "columnHeader": "DAW product selection code",
+    "index": 28
+  },
+  "DH_EOB_REFILL_NUMBER": {
+    "columnHeader": "Refill number",
+    "index": 29
+  },
+  "DH_EOB_PRESCRIPTION_ORIGIN_CODE": {
+    "columnHeader": "Prescription origin code",
+    "index": 30
+  },
+  "DH_EOB_PLAN_REPORTED_BRAND_GENERIC_CODE": {
+    "columnHeader": "Plan reported brand generic code",
+    "index": 31
+  },
+  "DH_EOB_PHARMACY_SERVICE_TYPE_CODE": {
+    "columnHeader": "Pharmacy service type code",
+    "index": 32
+  },
+  "DH_EOB_PATIENT_RESIDENCE_CODE": {
+    "columnHeader": "Patient residence code",
+    "index": 33
+  },
+  "DH_EOB_CLAIM_BILLING_PROVIDER_NPI": {
+    "columnHeader": "Claim billing provider NPI",
+    "index": 34
+  },
+  "DH_EOB_CLAIM_BILLING_PROVIDER_NETWORK_STATUS": {
+    "columnHeader": "Claim billing provider network status",
+    "index": 35
+  },
+  "DH_EOB_CLAIM_ATTENDING_PROVIDER_NPI": {
+    "columnHeader": "Claim attending provider NPI",
+    "index": 36
+  },
+  "DH_EOB_CLAIM_ATTENDING_PROVIDER_NETWORK_STATUS": {
+    "columnHeader": "Claim attending provider network status",
+    "index": 37
+  },
+  "DH_EOB_CLAIM_SITE_OF_SERVICE_NPI": {
+    "columnHeader": "Claim site of service NPI",
+    "index": 38
+  },
+  "DH_EOB_CLAIM_SITE_OF_SERVICE_NETWORK_STATUS": {
+    "columnHeader": "Claim site of service network status",
+    "index": 39
+  },
+  "DH_EOB_CLAIM_REFERRING_PROVIDER_NPI": {
+    "columnHeader": "Claim referring provider NPI",
+    "index": 40
+  },
+  "DH_EOB_CLAIM_REFERRING_PROVIDER_NETWORK_STATUS": {
+    "columnHeader": "Claim referring provider network status",
+    "index": 41
+  },
+  "DH_EOB_CLAIM_PERFORMING_PROVIDER_NPI": {
+    "columnHeader": "Claim performing provider NPI",
+    "index": 42
+  },
+  "DH_EOB_CLAIM_PERFORMING_PROVIDER_NETWORK_STATUS": {
+    "columnHeader": "Claim performing provider network status",
+    "index": 43
+  },
+  "DH_EOB_CLAIM_PRESCRIBING_PROVIDER_NPI": {
+    "columnHeader": "Claim prescribing provider NPI",
+    "index": 44
+  },
+  "DH_EOB_CLAIM_PRESCRIBING_PROVIDER_NETWORK_STATUS": {
+    "columnHeader": "Claim prescribing provider network status",
+    "index": 45
+  },
+  "DH_EOB_CLAIM_PCP_NPI": {
+    "columnHeader": "Claim PCP NPI",
+    "index": 46
+  },
+  "DH_EOB_CLAIM_TOTAL_SUBMITTED_AMOUNT": {
+    "columnHeader": "Claim total submitted amount",
+    "index": 47
+  },
+  "DH_EOB_CLAIM_TOTAL_ALLOWED_AMOUNT": {
+    "columnHeader": "Claim total allowed amount",
+    "index": 48
+  },
+  "DH_EOB_AMOUNT_PAID_BY_PATIENT": {
+    "columnHeader": "Amount paid by patient",
+    "index": 49
+  },
+  "DH_EOB_CLAIM_AMOUNT_PAID_TO_PROVIDER": {
+    "columnHeader": "Claim amount paid to provider",
+    "index": 50
+  },
+  "DH_EOB_MEMBER_REIMBURSEMENT": {
+    "columnHeader": "Member reimbursement",
+    "index": 51
+  },
+  "DH_EOB_CLAIM_PAYMENT_AMOUNT": {
+    "columnHeader": "Claim payment amount",
+    "index": 52
+  },
+  "DH_EOB_CLAIM_DISALLOWED_AMOUNT": {
+    "columnHeader": "Claim disallowed amount",
+    "index": 53
+  },
+  "DH_EOB_MEMBER_PAID_DEDUCTIBLE": {
+    "columnHeader": "Member paid deductible",
+    "index": 54
+  },
+  "DH_EOB_CO_INSURANCE_LIABILITY_AMOUNT": {
+    "columnHeader": "Co-insurance liability amount",
+    "index": 55
+  },
+  "DH_EOB_COPAY_AMOUNT": {
+    "columnHeader": "Copay amount",
+    "index": 56
+  },
+  "DH_EOB_MEMBER_LIABILITY": {
+    "columnHeader": "Member liability",
+    "index": 57
+  },
+  "DH_EOB_CLAIM_PRIMARY_PAYER_PAID_AMOUNT": {
+    "columnHeader": "Claim primary payer paid amount",
+    "index": 58
+  },
+  "DH_EOB_CLAIM_DISCOUNT_AMOUNT": {
+    "columnHeader": "Claim discount amount",
+    "index": 59
+  },
+  "DH_EOB_SERVICE_FROM_DATE": {
+    "columnHeader": "Service (from) date",
+    "index": 60
+  },
+  "DH_EOB_LINE_NUMBER": {
+    "columnHeader": "Line number",
+    "index": 61
+  },
+  "DH_EOB_SERVICE_TO_DATE": {
+    "columnHeader": "Service to date",
+    "index": 62
+  },
+  "DH_EOB_TYPE_OF_SERVICE": {
+    "columnHeader": "Type of service",
+    "index": 63
+  },
+  "DH_EOB_PLACE_OF_SERVICE_CODE": {
+    "columnHeader": "Place of service code",
+    "index": 64
+  },
+  "DH_EOB_REVENUE_CENTER_CODE": {
+    "columnHeader": "Revenue center code",
+    "index": 65
+  },
+  "DH_EOB_ALLOWED_NUMBER_OF_UNITS": {
+    "columnHeader": "Allowed number of units",
+    "index": 66
+  },
+  "DH_EOB_NUMBER_OF_UNITS": {
+    "columnHeader": "Number of units",
+    "index": 67
+  },
+  "DH_EOB_NATIONAL_DRUG_CODE": {
+    "columnHeader": "National drug code",
+    "index": 68
+  },
+  "DH_EOB_COMPOUND_CODE": {
+    "columnHeader": "Compound code",
+    "index": 69
+  },
+  "DH_EOB_QUANTITY_DISPENSED": {
+    "columnHeader": "Quantity dispensed",
+    "index": 70
+  },
+  "DH_EOB_QUANTITY_QUALIFIER_CODE": {
+    "columnHeader": "Quantity qualifier code",
+    "index": 71
+  },
+  "DH_EOB_LINE_BENEFIT_PAYMENT_STATUS": {
+    "columnHeader": "Line benefit payment status",
+    "index": 72
+  },
+  "DH_EOB_LINE_PAYMENT_DENIAL_CODE": {
+    "columnHeader": "Line payment denial code",
+    "index": 73
+  },
+  "DH_EOB_LINE_DISALLOWED_AMOUNT": {
+    "columnHeader": "Line disallowed amount",
+    "index": 74
+  },
+  "DH_EOB_LINE_MEMBER_REIMBURSEMENT": {
+    "columnHeader": "Line member reimbursement",
+    "index": 75
+  },
+  "DH_EOB_LINE_AMOUNT_PAID_BY_PATIENT": {
+    "columnHeader": "Line amount paid by patient",
+    "index": 76
+  },
+  "DH_EOB_DRUG_COST": {
+    "columnHeader": "Drug cost",
+    "index": 77
+  },
+  "DH_EOB_LINE_PAYMENT_AMOUNT": {
+    "columnHeader": "Line payment amount",
+    "index": 78
+  },
+  "DH_EOB_LINE_AMOUNT_PAID_TO_PROVIDER": {
+    "columnHeader": "Line amount paid to provider",
+    "index": 79
+  },
+  "DH_EOB_LINE_PATIENT_DEDUCTIBLE": {
+    "columnHeader": "Line patient deductible",
+    "index": 80
+  },
+  "DH_EOB_LINE_PRIMARY_PAYER_PAID_AMOUNT": {
+    "columnHeader": "Line primary payer paid amount",
+    "index": 81
+  },
+  "DH_EOB_LINE_COINSURANCE_AMOUNT": {
+    "columnHeader": "Line coinsurance amount",
+    "index": 82
+  },
+  "DH_EOB_LINE_SUBMITTED_AMOUNT": {
+    "columnHeader": "Line submitted amount",
+    "index": 83
+  },
+  "DH_EOB_LINE_ALLOWED_AMOUNT": {
+    "columnHeader": "Line allowed amount",
+    "index": 84
+  },
+  "DH_EOB_LINE_MEMBER_LIABILITY": {
+    "columnHeader": "Line member liability",
+    "index": 85
+  },
+  "DH_EOB_LINE_COPAY_AMOUNT": {
+    "columnHeader": "Line copay amount",
+    "index": 86
+  },
+  "DH_EOB_LINE_DISCOUNT_AMOUNT": {
+    "columnHeader": "Line discount amount",
+    "index": 87
+  },
+  "DH_EOB_DIAGNOSIS_CODE_1": {
+    "columnHeader": "Diagnosis code",
+    "index": 88
+  },
+  "DH_EOB_DIAGNOSIS_DESCRIPTION": {
+    "columnHeader": "Diagnosis description",
+    "index": 89
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_1": {
+    "columnHeader": "Present on admission",
+    "index": 90
+  },
+  "DH_EOB_DIAGNOSIS_CODE_TYPE": {
+    "columnHeader": "Diagnosis code type",
+    "index": 91
+  },
+  "DH_EOB_DIAGNOSIS_TYPE": {
+    "columnHeader": "Diagnosis type",
+    "index": 92
+  },
+  "DH_EOB_IS_E_CODE_1": {
+    "columnHeader": "Is E code",
+    "index": 93
+  },
+  "DH_EOB_PROCEDURE_CODE_1": {
+    "columnHeader": "Procedure code",
+    "index": 94
+  },
+  "DH_EOB_PROCEDURE_DESCRIPTION": {
+    "columnHeader": "Procedure description",
+    "index": 95
+  },
+  "DH_EOB_PROCEDURE_DATE_1": {
+    "columnHeader": "Procedure date",
+    "index": 96
+  },
+  "DH_EOB_PROCEDURE_CODE_TYPE": {
+    "columnHeader": "Procedure code type",
+    "index": 97
+  },
+  "DH_EOB_PROCEDURE_TYPE": {
+    "columnHeader": "Procedure type",
+    "index": 98
+  },
+  "DH_EOB_MODIFIER_CODE_1": {
+    "columnHeader": "Modifier Code-1",
+    "index": 99
+  },
+  "DH_EOB_MODIFIER_CODE_2": {
+    "columnHeader": "Modifier Code-2",
+    "index": 100
+  },
+  "DH_EOB_MODIFIER_CODE_3": {
+    "columnHeader": "Modifier Code-3",
+    "index": 101
+  },
+  "DH_EOB_MODIFIER_CODE_4": {
+    "columnHeader": "Modifier Code-4",
+    "index": 102
+  },
+  "DH_EOB_DIAGNOSIS_CODE_2": {
+    "columnHeader": "Diagnosis code_2",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_2": {
+    "columnHeader": "Present on admission_2",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_2": {
+    "columnHeader": "Is E code_2",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_3": {
+    "columnHeader": "Diagnosis code_3",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_3": {
+    "columnHeader": "Present on admission_3",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_3": {
+    "columnHeader": "Is E code_3",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_4": {
+    "columnHeader": "Diagnosis code_4",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_4": {
+    "columnHeader": "Present on admission_4",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_4": {
+    "columnHeader": "Is E code_4",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_5": {
+    "columnHeader": "Diagnosis code_5",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_5": {
+    "columnHeader": "Present on admission_5",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_5": {
+    "columnHeader": "Is E code_5",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_6": {
+    "columnHeader": "Diagnosis code_6",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_6": {
+    "columnHeader": "Present on admission_6",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_6": {
+    "columnHeader": "Is E code_6",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_7": {
+    "columnHeader": "Diagnosis code_7",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_7": {
+    "columnHeader": "Present on admission_7",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_7": {
+    "columnHeader": "Is E code_7",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_8": {
+    "columnHeader": "Diagnosis code_8",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_8": {
+    "columnHeader": "Present on admission_8",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_8": {
+    "columnHeader": "Is E code_8",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_9": {
+    "columnHeader": "Diagnosis code_9",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_9": {
+    "columnHeader": "Present on admission_9",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_9": {
+    "columnHeader": "Is E code_9",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_10": {
+    "columnHeader": "Diagnosis code_10",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_10": {
+    "columnHeader": "Present on admission_10",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_10": {
+    "columnHeader": "Is E code_10",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_11": {
+    "columnHeader": "Diagnosis code_11",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_11": {
+    "columnHeader": "Present on admission_11",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_11": {
+    "columnHeader": "Is E code_11",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_12": {
+    "columnHeader": "Diagnosis code_12",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_12": {
+    "columnHeader": "Present on admission_12",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_12": {
+    "columnHeader": "Is E code_12",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_13": {
+    "columnHeader": "Diagnosis code_13",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_13": {
+    "columnHeader": "Present on admission_13",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_13": {
+    "columnHeader": "Is E code_13",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_14": {
+    "columnHeader": "Diagnosis code_14",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_14": {
+    "columnHeader": "Present on admission_14",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_14": {
+    "columnHeader": "Is E code_14",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_15": {
+    "columnHeader": "Diagnosis code_15",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_15": {
+    "columnHeader": "Present on admission_15",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_15": {
+    "columnHeader": "Is E code_15",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_16": {
+    "columnHeader": "Diagnosis code_16",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_16": {
+    "columnHeader": "Present on admission_16",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_16": {
+    "columnHeader": "Is E code_16",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_17": {
+    "columnHeader": "Diagnosis code_17",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_17": {
+    "columnHeader": "Present on admission_17",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_17": {
+    "columnHeader": "Is E code_17",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_18": {
+    "columnHeader": "Diagnosis code_18",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_18": {
+    "columnHeader": "Present on admission_18",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_18": {
+    "columnHeader": "Is E code_18",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_19": {
+    "columnHeader": "Diagnosis code_19",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_19": {
+    "columnHeader": "Present on admission_19",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_19": {
+    "columnHeader": "Is E code_19",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_20": {
+    "columnHeader": "Diagnosis code_20",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_20": {
+    "columnHeader": "Present on admission_20",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_20": {
+    "columnHeader": "Is E code_20",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_21": {
+    "columnHeader": "Diagnosis code_21",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_21": {
+    "columnHeader": "Present on admission_21",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_21": {
+    "columnHeader": "Is E code_21",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_22": {
+    "columnHeader": "Diagnosis code_22",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_22": {
+    "columnHeader": "Present on admission_22",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_22": {
+    "columnHeader": "Is E code_22",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_23": {
+    "columnHeader": "Diagnosis code_23",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_23": {
+    "columnHeader": "Present on admission_23",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_23": {
+    "columnHeader": "Is E code_23",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_24": {
+    "columnHeader": "Diagnosis code_24",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_24": {
+    "columnHeader": "Present on admission_24",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_24": {
+    "columnHeader": "Is E code_24",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_25": {
+    "columnHeader": "Diagnosis code_25",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_25": {
+    "columnHeader": "Present on admission_25",
+    "index": -1
+  },
+  "DH_EOB_IS_E_CODE_25": {
+    "columnHeader": "Is E code_25",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_2": {
+    "columnHeader": "Procedure code_2",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_2": {
+    "columnHeader": "Procedure date_2",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_3": {
+    "columnHeader": "Procedure code_3",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_3": {
+    "columnHeader": "Procedure date_3",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_4": {
+    "columnHeader": "Procedure code_4",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_4": {
+    "columnHeader": "Procedure date_4",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_5": {
+    "columnHeader": "Procedure code_5",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_5": {
+    "columnHeader": "Procedure date_5",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_6": {
+    "columnHeader": "Procedure code_6",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_6": {
+    "columnHeader": "Procedure date_6",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_7": {
+    "columnHeader": "Procedure code_7",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_7": {
+    "columnHeader": "Procedure date_7",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_8": {
+    "columnHeader": "Procedure code_8",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_8": {
+    "columnHeader": "Procedure date_8",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_9": {
+    "columnHeader": "Procedure code_9",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_9": {
+    "columnHeader": "Procedure date_9",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_10": {
+    "columnHeader": "Procedure code_10",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_10": {
+    "columnHeader": "Procedure date_10",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_11": {
+    "columnHeader": "Procedure code_11",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_11": {
+    "columnHeader": "Procedure date_11",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_12": {
+    "columnHeader": "Procedure code_12",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_12": {
+    "columnHeader": "Procedure date_12",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_13": {
+    "columnHeader": "Procedure code_13",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_13": {
+    "columnHeader": "Procedure date_13",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_14": {
+    "columnHeader": "Procedure code_14",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_14": {
+    "columnHeader": "Procedure date_14",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_15": {
+    "columnHeader": "Procedure code_15",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_15": {
+    "columnHeader": "Procedure date_15",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_16": {
+    "columnHeader": "Procedure code_16",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_16": {
+    "columnHeader": "Procedure date_16",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_17": {
+    "columnHeader": "Procedure code_17",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_17": {
+    "columnHeader": "Procedure date_17",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_18": {
+    "columnHeader": "Procedure code_18",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_18": {
+    "columnHeader": "Procedure date_18",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_19": {
+    "columnHeader": "Procedure code_19",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_19": {
+    "columnHeader": "Procedure date_19",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_20": {
+    "columnHeader": "Procedure code_20",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_20": {
+    "columnHeader": "Procedure date_20",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_21": {
+    "columnHeader": "Procedure code_21",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_21": {
+    "columnHeader": "Procedure date_21",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_22": {
+    "columnHeader": "Procedure code_22",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_22": {
+    "columnHeader": "Procedure date_22",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_23": {
+    "columnHeader": "Procedure code_23",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_23": {
+    "columnHeader": "Procedure date_23",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_24": {
+    "columnHeader": "Procedure code_24",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_24": {
+    "columnHeader": "Procedure date_24",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_25": {
+    "columnHeader": "Procedure code_25",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_25": {
+    "columnHeader": "Procedure date_25",
+    "index": -1
+  },
+  "DH_EOB_ENTERPRISE_PERSON_ID": {
+    "columnHeader": "Enterprise_person_identifier",
+    "index": -1
+  },
+  "DH_EOB_ADMITTING_DIAGNOSIS_CODE": {
+    "columnHeader": "Admitting_diagnosis_code",
+    "index": -1
+  },
+  "DH_EOB_ICD_VERSION_CODE": {
+    "columnHeader": "ICD_version_code",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_26": {
+    "columnHeader": "diagnosis_code_26",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_27": {
+    "columnHeader": "diagnosis_code_27",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_28": {
+    "columnHeader": "diagnosis_code_28",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_29": {
+    "columnHeader": "diagnosis_code_29",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_30": {
+    "columnHeader": "diagnosis_code_30",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_31": {
+    "columnHeader": "diagnosis_code_31",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_32": {
+    "columnHeader": "diagnosis_code_32",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_33": {
+    "columnHeader": "diagnosis_code_33",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_34": {
+    "columnHeader": "diagnosis_code_34",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_35": {
+    "columnHeader": "diagnosis_code_35",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_36": {
+    "columnHeader": "diagnosis_code_36",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_37": {
+    "columnHeader": "diagnosis_code_37",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_38": {
+    "columnHeader": "diagnosis_code_38",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_39": {
+    "columnHeader": "diagnosis_code_39",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_40": {
+    "columnHeader": "diagnosis_code_40",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_41": {
+    "columnHeader": "diagnosis_code_41",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_42": {
+    "columnHeader": "diagnosis_code_42",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_43": {
+    "columnHeader": "diagnosis_code_43",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_44": {
+    "columnHeader": "diagnosis_code_44",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_45": {
+    "columnHeader": "diagnosis_code_45",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_46": {
+    "columnHeader": "diagnosis_code_46",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_47": {
+    "columnHeader": "diagnosis_code_47",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_48": {
+    "columnHeader": "diagnosis_code_48",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_49": {
+    "columnHeader": "diagnosis_code_49",
+    "index": -1
+  },
+  "DH_EOB_DIAGNOSIS_CODE_50": {
+    "columnHeader": "diagnosis_code_50",
+    "index": -1
+  },
+  "DH_EOB_CPT_HCPCS_CODE": {
+    "columnHeader": "procedure_code_cpt_hcpcs",
+    "index": -1
+  },
+  "DH_EOB_LINE_PROCEDURE_CODESET_TYPE": {
+    "columnHeader": "Line_Procedure_Codeset_Type",
+    "index": -1
+  },
+  "DH_EOB_LINE_PAYMENT_STATUS_CODE": {
+    "columnHeader": "line_payment_status_code",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_CODE_PRIMARY": {
+    "columnHeader": "procedure_code_pcs_primary",
+    "index": -1
+  },
+  "DH_EOB_PROCEDURE_DATE_PRIMARY": {
+    "columnHeader": "procedure_date_primary",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_26": {
+    "columnHeader": "present_on_admission_26",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_27": {
+    "columnHeader": "present_on_admission_27",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_28": {
+    "columnHeader": "present_on_admission_28",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_29": {
+    "columnHeader": "present_on_admission_29",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_30": {
+    "columnHeader": "present_on_admission_30",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_31": {
+    "columnHeader": "present_on_admission_31",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_32": {
+    "columnHeader": "present_on_admission_32",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_33": {
+    "columnHeader": "present_on_admission_33",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_34": {
+    "columnHeader": "present_on_admission_34",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_35": {
+    "columnHeader": "present_on_admission_35",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_36": {
+    "columnHeader": "present_on_admission_36",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_37": {
+    "columnHeader": "present_on_admission_37",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_38": {
+    "columnHeader": "present_on_admission_38",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_39": {
+    "columnHeader": "present_on_admission_39",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_40": {
+    "columnHeader": "present_on_admission_40",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_41": {
+    "columnHeader": "present_on_admission_41",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_42": {
+    "columnHeader": "present_on_admission_42",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_43": {
+    "columnHeader": "present_on_admission_43",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_44": {
+    "columnHeader": "present_on_admission_44",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_45": {
+    "columnHeader": "present_on_admission_45",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_46": {
+    "columnHeader": "present_on_admission_46",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_47": {
+    "columnHeader": "present_on_admission_47",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_48": {
+    "columnHeader": "present_on_admission_48",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_49": {
+    "columnHeader": "present_on_admission_49",
+    "index": -1
+  },
+  "DH_EOB_PRESENT_ON_ADMISSION_50": {
+    "columnHeader": "present_on_admission_50",
+    "index": -1
+  },
+  "DH_EOB_CLAIM_DIAGNOSIS_RELATED_GROUP_VERSION": {
+    "columnHeader": "claim_diagnosis_related_group version",
+    "index": -1
+  },
+  "DH_EOB_CLAIM_DIAGNOSIS_RELATED_GROUP_CODE": {
+    "columnHeader": "claim_diagnosis_related_group_cd",
+    "index": -1
+  }
+}

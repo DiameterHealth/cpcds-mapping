@@ -58,5 +58,53 @@
   "DH_COVERAGE_RELATIONSHIP_TO_SUBSCRIBER": {
     "columnHeader": "Relationship to subscriber",
     "index": 14
+  },
+  "DH_COVERAGE_SUBSCRIBER_ENTERPRISE_ID": {
+    "columnHeader": "Subscriber Enterprise Person Id",
+    "index": -1
+  },
+  "DH_COVERAGE_POPULATION": {
+    "columnHeader": "Population",
+    "index": -1
+  },
+  "DH_COVERAGE_CMS_CONTRACT_NUMBER": {
+    "columnHeader": "CMS Contract Number",
+    "index": -1
+  },
+  "DH_COVERAGE_PBP_ID": {
+    "columnHeader": "CMS Plan Benefit Package (PBP) Id",
+    "index": -1
+  },
+  "DH_COVERAGE_HIOS_ID": {
+    "columnHeader": "HIOS Plan Id",
+    "index": -1
+  },
+  "DH_COVERAGE_NASCO_ID": {
+    "columnHeader": "Nasco Package Id",
+    "index": -1
+  },
+  "DH_COVERAGE_MOS_ID": {
+    "columnHeader": "MOS Package Id",
+    "index": -1
+  },
+  "DH_COVERAGE_BCN_ID": {
+    "columnHeader": "BCN Package Id",
+    "index": -1
+  },
+  "DH_COVERAGE_GROUP_SEGMENT_ID": {
+    "columnHeader": "Group Segment Id",
+    "index": -1
+  },
+  "DH_COVERAGE_GROUP_CLASS_ID": {
+    "columnHeader": "Group Class Id",
+    "index": -1
+  },
+  "DH_COVERAGE_GROUP_KEY": {
+    "columnHeader": "ESI_Group_Key",
+    "index": -1
+  },
+  "DH_COVERAGE_PERSON_NUMBER": {
+    "columnHeader": "ESI_Person_Number",
+    "index": -1
   }
 }
