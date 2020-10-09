@@ -1,174 +1,178 @@
 {
   "DH_EOB_ENTERPRISE_PERSON_ID": {
-    "columnHeader": "Enterprise_person_identifier",
+    "columnHeader": "enterprise_person_id",
     "index": 0
   },
   "DH_EOB_CLAIM_PAYER_IDENTIFIER": {
     "columnHeader": "claim_payer_identifier",
     "index": 1
   },
+  "DH_EOB_CLAIM_UNIQUE_IDENTIFIER": {
+    "columnHeader": "claim_unique_id",
+    "index": 2
+  },
   "DH_EOB_CLAIM_TYPE": {
     "columnHeader": "claim_type",
-    "index": 2
+    "index": 3
   },
   "DH_EOB_LINE_SUBMITTED_AMOUNT": {
     "columnHeader": "line_submitted_amount",
-    "index": 3
+    "index": 4
   },
   "DH_EOB_LINE_ALLOWED_AMOUNT": {
     "columnHeader": "line_allowed_amount",
-    "index": 4
+    "index": 5
   },
   "DH_EOB_LINE_PATIENT_DEDUCTIBLE": {
     "columnHeader": "line_patient_deductible",
-    "index": 5
+    "index": 6
   },
   "DH_EOB_LINE_COINSURANCE_AMOUNT": {
     "columnHeader": "line_coinsurance_amount",
-    "index": 6
+    "index": 7
   },
   "DH_EOB_LINE_COPAY_AMOUNT": {
     "columnHeader": "line_copay_amount",
-    "index": 7
+    "index": 8
   },
   "DH_EOB_LINE_DISALLOWED_AMOUNT": {
     "columnHeader": "line_disallowed_amount",
-    "index": 8
+    "index": 9
   },
   "DH_EOB_LINE_PRIMARY_PAYER_PAID_AMOUNT": {
     "columnHeader": "line_primary_payer_paid_amount",
-    "index": 9
+    "index": 10
   },
   "DH_EOB_LINE_AMOUNT_PAID_BY_PATIENT": {
     "columnHeader": "line_amount_paid_by_patient",
-    "index": 10
+    "index": 11
   },
   "DH_EOB_LINE_DISCOUNT_AMOUNT": {
     "columnHeader": "line_discount_amount",
-    "index": 11
+    "index": 12
   },
   "DH_EOB_DRUG_COST": {
     "columnHeader": "drug_cost",
-    "index": 12
+    "index": 13
   },
   "DH_EOB_LINE_AMOUNT_PAID_TO_PROVIDER": {
     "columnHeader": "line_amount_paid_to_provider",
-    "index": 13
+    "index": 14
   },
   "DH_EOB_LINE_MEMBER_REIMBURSEMENT": {
     "columnHeader": "line_member_reimbursement",
-    "index": 14
+    "index": 15
   },
   "DH_EOB_LINE_MEMBER_LIABILITY": {
     "columnHeader": "line_member_liability",
-    "index": 15
+    "index": 16
   },
   "DH_EOB_TYPE_OF_SERVICE": {
     "columnHeader": "type_of_service",
-    "index": 16
+    "index": 17
   },
   "DH_EOB_RX_SERVICE_REFERENCE_NUMBER": {
     "columnHeader": "rx_service_reference_number",
-    "index": 17
+    "index": 18
   },
   "DH_EOB_LINE_NUMBER": {
     "columnHeader": "line_number",
-    "index": 18
+    "index": 19
   },
   "DH_EOB_NATIONAL_DRUG_CODE": {
     "columnHeader": "national_drug_code",
-    "index": 19
+    "index": 20
   },
   "DH_EOB_QUANTITY_DISPENSED": {
     "columnHeader": "quantity_dispensed",
-    "index": 20
+    "index": 21
   },
   "DH_EOB_DAYS_SUPPLY": {
     "columnHeader": "days_supply",
-    "index": 21
+    "index": 22
   },
   "DH_EOB_COMPOUND_CODE": {
     "columnHeader": "compound_code",
-    "index": 22
+    "index": 23
   },
   "DH_EOB_DAW_PRODUCT_SELECTION_CODE": {
     "columnHeader": "daw_product_selection_code",
-    "index": 23
+    "index": 24
   },
   "DH_EOB_CLAIM_RECEIVED_DATE": {
     "columnHeader": "claim_received_date",
-    "index": 24
+    "index": 25
   },
   "DH_EOB_CLAIM_SERVICE_START_DATE": {
     "columnHeader": "service_from_date",
-    "index": 25
+    "index": 26
   },
   "DH_EOB_CLAIM_PAYMENT_STATUS_CODE": {
     "columnHeader": "claim_payment_status_code",
-    "index": 26
+    "index": 27
   },
   "DH_EOB_LINE_PAYMENT_DENIAL_CODE": {
     "columnHeader": "line_payment_denial_code",
-    "index": 27
+    "index": 28
   },
   "DH_EOB_CLAIM_BILLING_PROVIDER_NPI": {
     "columnHeader": "claim_billing_provider_npi",
-    "index": 28
+    "index": 29
   },
   "DH_EOB_CLAIM_PCP_NPI": {
     "columnHeader": "claim_pcp_npi",
-    "index": 29
+    "index": 30
   },
   "DH_EOB_CLAIM_BILLING_PROVIDER_NETWORK_STATUS": {
     "columnHeader": "claim_billing_provider_network_status",
-    "index": 30
+    "index": 31
   },
   "DH_EOB_CLAIM_PAID_DATE": {
     "columnHeader": "claim_paid_date",
-    "index": 31
+    "index": 32
   },
   "DH_EOB_CLAIM_ADJUSTED_FROM_IDENTIFIER": {
     "columnHeader": "claim_adjusted_from_identifier",
-    "index": 32
+    "index": 33
   },
   "DH_EOB_CLAIM_ADJUSTED_TO_IDENTIFIER": {
     "columnHeader": "claim_adjusted_to_identifier",
-    "index": 33
+    "index": 34
   },
   "DH_EOB_CLAIM_PAYEE_TYPE_CODE": {
     "columnHeader": "claim_payee_type_code",
-    "index": 34
+    "index": 35
   },
   "DH_EOB_CLAIM_PRESCRIBING_PROVIDER_NPI": {
     "columnHeader": "claim_prescribing_provider_npi",
-    "index": 35
+    "index": 36
   },
   "DH_EOB_CLAIM_PRESCRIBING_PROVIDER_NETWORK_STATUS": {
     "columnHeader": "claim_prescribing_provider_network_status",
-    "index": 36
+    "index": 37
   },
   "DH_EOB_REFILL_NUMBER": {
     "columnHeader": "refill_number",
-    "index": 37
+    "index": 38
   },
   "DH_EOB_CLAIM_PRIMARY_PAYER_IDENTIFIER": {
     "columnHeader": "claim_primary_payer_identifier",
-    "index": 38
+    "index": 39
   },
   "DH_EOB_LINE_BENEFIT_PAYMENT_STATUS": {
     "columnHeader": "line_benefit_payment_status",
-    "index": 39
+    "index": 40
   },
   "DH_EOB_PRESCRIPTION_ORIGIN_CODE": {
     "columnHeader": "prescription_origin_code",
-    "index": 40
+    "index": 41
   },
   "DH_EOB_PLAN_REPORTED_BRAND_GENERIC_CODE": {
     "columnHeader": "plan_reported_brand_generic_code",
-    "index": 41
+    "index": 42
   },
   "DH_EOB_QUANTITY_QUALIFIER_CODE": {
     "columnHeader": "quantity_qualifier_code",
-    "index": 42
+    "index": 43
   }
 }
