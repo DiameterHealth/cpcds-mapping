@@ -42,5 +42,9 @@
   "DH_ORGANIZATION_TYPE": {
     "columnHeader": "Type",
     "index": 10
+  },
+  "DH_ORGANIZATION_TEXT": {
+    "columnHeader": "Organization Source System",
+    "index": -1
   }
 }
