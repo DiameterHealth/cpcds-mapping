@@ -66,5 +66,9 @@
   "DH_PRACTITIONER_SPECIALTY": {
     "columnHeader": "Specialty",
     "index": 16
+  },
+  "DH_PRACTITIONER_TEXT": {
+    "columnHeader": "PODS Source Sys Code",
+    "index": 18
   }
 }
